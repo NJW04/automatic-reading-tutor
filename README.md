@@ -1,9 +1,5 @@
 # Automatic Reading Tutor Project
 
-## GitLab Repository
-
-[Link to GitLab Repository](https://gitlab.cs.uct.ac.za/capstone-project-2024/automatic-reading-tutor.git)
-
 The Automatic Reading Tutor is a web application designed to help users improve their pronunciation while reading stories aloud. The application includes a frontend and backend, where users can select stories, read them, and receive feedback on their pronunciation. The backend processes the user's speech and compares it to the correct phonemes using models and tools such as Wav2Vec2-xlsr-53, phonemizer, and espeak-ng.
 
 ## Table of Contents
