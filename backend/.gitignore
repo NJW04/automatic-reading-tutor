@@ -1,0 +1,16 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+
+# SQLite database
+instance
+
+# Redis database dump
+dump.rdb
+
+#Audio Files stored in server
+static/
